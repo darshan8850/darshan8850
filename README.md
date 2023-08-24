@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshan8850](https://github.com/darshan8850)
 
-- 💬 Ask me about **AIML, Deep Learning, DevOps**
+- 💬 Ask me about **AIML, Deep Learning, AWS, Big Data, NLP, DevOps**
 
 - 📫 How to reach me **darshanpatil05092001@gmail.com**
 
