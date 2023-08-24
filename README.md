@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan Patil</h1>
-<h3 align="center">Aspiring AI/ML engineer with a passion for deep learning and computer vision</h3>
+<h3 align="center">Aspiring AI/ML engineer with a passion for deep learning, NLP and computer vision</h3>
 
 <br /><br />
 
